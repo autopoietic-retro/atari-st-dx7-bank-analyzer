@@ -18,4 +18,7 @@ Some features use the cursor and then a key command and maybe a sound number.
 
 Bear with me, it has been a long time, and it is hard to remember.
 But I know that the directory functions should be improved, because it was built only with a diskette in mind.
+
+Try both similar acc files, and tell me which one works.
+
 Have a lot of fun!
